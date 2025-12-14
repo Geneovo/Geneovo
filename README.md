@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Geneovo/Geneovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Geneovo, a **Full-Stack MERN Developer**.
+I design and build whatever I can imagine.
 
-Here are some ideas to get you started:
+### Tech Stack
+React | Redux | Next.js | TypeScript | Node.js | Express | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+- A full authentication system
+- Learning backend devlopment inside out with Node.js, Express & MongoDB
+
+### Reach me
+- Twitter/X: *@Geneovoo*
+- Email: *odjuvwederhieblessing@gmail.com*
+
+### Fun Facts
+- I love cats
+- I love designing a lot
+- I'm addicted to coffee and tea
+
+**Hobbies:** anime, designing, gaming, gym and books
+
