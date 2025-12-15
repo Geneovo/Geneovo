@@ -20,4 +20,5 @@ React | Redux | Next.js | TypeScript | Node.js | Express | MongoDB
 - I'm addicted to coffee and tea
 
 **Hobbies:** anime, designing, gaming, gym and books
-
+ 
+💡 *Open to collaborations and new opportunities*
